@@ -6,13 +6,20 @@ This script serves the functionality of renaming the files listed in the user sp
 Created by : Rishav Das (https://github.com/rdofficial/)
 Created on : September 17, 2021
 
-Last modified by : -
-Last modified on : -
+Last modified by : Rishav Das (https://github.com/rdofficial/)
+Last modified on : September 19, 2021
+
+Changes made in the last modification :
+1. Corrected some of the commented docs.
+
+Authors contributed to this script (Add your name below if you have contributed) :
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 """
 
 # Importing the required functions and modules
 from os import path, rename, listdir
 from base64 import b64encode, b64decode
+from sys import platform
 
 # Defining the color code variables for the colored output
 if 'linux' in platform:

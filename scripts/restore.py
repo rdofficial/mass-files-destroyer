@@ -6,8 +6,14 @@ This script serves the functionality of restoring the destroyed files by the mai
 Created by : Rishav Das (https://github.com/rdofficial/)
 Created on : September 16, 2021
 
-Last modified by : -
-Last modified on : -
+Last modified by : Rishav Das (https://github.com/rdofficial/)
+Last modified on : September 19, 2021
+
+Changes made in the last modification :
+1. Corrected some of the commented docs.
+
+Authors contributed to this script (Add your name below if you have contributed) :
+1. Rishav Das (github:https://github.com/rdofficial/, email:rdofficial192@gmail.com)
 """
 
 # Importing the required functions and modules
